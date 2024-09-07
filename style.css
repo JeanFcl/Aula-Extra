@@ -3,7 +3,7 @@
 }
 
 .cacebaclho {
-    background-image: linear-gradient(rgb(255, 0, 255), purple, yellow, aqua);
+    background-image: linear-gradient(rgb(255, 0, 255), purple);
     color: azure;
     display: flex;
     padding: 24px 0;
